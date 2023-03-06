@@ -2,7 +2,7 @@
 Repositório criado para o desafio de projeto da DIO sobre Git/Github, em que abri meu primeiro repositório no github, e apresentarei o que aprendi sobre Git/Github na plataforma de ensino da DIO.
 
 ## O que foi aprendido
-Primeiro fiz a instalação do Git para MacOS (o sistema que eu utilizo) pelo link [Git][def],
+Primeiro fiz a instalação do [Git][def] para MacOS (o sistema que eu utilizo),
 Fiz o processo de instalação atrávez do terminal com o homebrew, que foi bem rápido, questão de segundos a instalação foi completa
 Assistindo alguns vídeos entendi alguns comandos básicos do terminal, como:
 * cd (para entrar em pastas)
